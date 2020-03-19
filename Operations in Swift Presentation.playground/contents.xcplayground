@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Block Operations'/>
+        <page name='Order of execution'/>
+        <page name='Reusing operations'/>
+        <page name='Custom Operations'/>
+        <page name='States of an operation'/>
+        <page name='Dependencies'/>
+        <page name='Asynchronous Operations'/>
+        <page name='Example Asynchronous Operation'/>
+        <page name='Advanced Asynchronous Result Operations'/>
+        <page name='Advanced Chained Result Operations'/>
+    </pages>
+</playground>

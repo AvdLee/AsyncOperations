@@ -1,5 +1,5 @@
 # Asynchronous Operations in Swift - Playground
-This project contains a playground to demonstrate Asynchronous Operations in Swift. It's been used in my presentation that I've performed at Swift Paris and CocoaHeadsNL. Slides from this presentation can be found [here](https://github.com/AvdLee/OperationsPresentation/blob/master/Presentation%20-%20Operations%20in%20Swift.pdf).
+This project contains a playground to demonstrate Asynchronous Operations in Swift. It's been used in my presentation that I've performed at Swift Paris and CocoaHeadsNL. Slides from this presentation can be found [here](https://github.com/AvdLee/OperationsPresentation/blob/master/Presentation%20-%20Operations%20in%20Swift.pdf) and a live recording can be found [here](https://youtu.be/T0wMEVBIZMg).
 
 ![Swift Version](https://img.shields.io/badge/Swift-5.1-F16D39.svg?style=flat) [![Twitter](https://img.shields.io/badge/twitter-@Twannl-blue.svg?style=flat)](https://twitter.com/twannl)
 
